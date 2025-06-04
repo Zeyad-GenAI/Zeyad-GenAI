@@ -50,7 +50,8 @@ class About extends Me {
     "Database" : { "Firebase", "Sqlite" },
     "Editors" : { "Vscode", "Xcode", "Android Studio" },
     "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop" }
+    "OtherTools" : { "Git", "Figma", "Photoshop" },
+    "AITools" : { "Cursor", "Claude", "ChatGPT", "DeepSeek", "Gemini" }
   };
 }
 ```
