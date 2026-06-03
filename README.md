@@ -123,11 +123,11 @@
 
 - 🌱 I’m currently learning *Advanced Flutter, AI Integration and Backend Developer* <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="12%" />
 
-- 💬 Ask me about *Flutter & AI*
+- 💬 Ask me about *AI & Flutter*
 
 - 📬 How to reach me: [zeyadelfaramawy@gmail.com](mailto:zeyadelfaramawy@gmail.com)
 
-- 🌐 Visit my portfolio: [Zeyad ElFarmawy](https://zeyadelfaramawy.netlify.app/)
+- 🌐 Visit my portfolio: [Zeyad ElFarmawy](https://zeyad-elfaramawy-portfolio.netlify.app/)
 
 - ⚡ Fun fact: *I started as a graphic designer and now build data and embedded solutions*
 
