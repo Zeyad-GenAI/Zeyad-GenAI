@@ -28,11 +28,11 @@
 
 - 🌱 I’m currently learning *Advanced Flutter, AI Integration and Cloud Technologies*
 
-- 💬 Ask me about *Flutter, AI and Mobile App Development*
+- 💬 Ask me about *AI Engineer and Mobile App Development*
 
 - 📫 How to reach me *zeyadelfaramawy@gmail.com*
 
-- 🌐 Visit my portfolio *[Zeyad ElFaramawy](https://zeyadelfaramawy.netlify.app/)*
+- 🌐 Visit my portfolio *[Zeyad ElFaramawy](https://zeyad-elfaramawy-portfolio.netlify.app/)*
 
 - ⚡ Fun fact *I started as a graphic designer and now build data and embedded solutions*
 
