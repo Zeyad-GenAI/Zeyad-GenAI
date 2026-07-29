@@ -32,7 +32,7 @@
 
 - 📫 How to reach me *zeyadelfaramawy@gmail.com*
 
-- 🌐 Visit my portfolio *[Zeyad ElFaramawy](https://zeyad-elfaramawy-portfolio.netlify.app/)*
+- 🌐 Visit my portfolio *[Zeyad ElFaramawy](https://zeyad-genai.github.io/portfolio/)*
 
 - ⚡ Fun fact *I started as a graphic designer and now build data and embedded solutions*
 
@@ -127,7 +127,7 @@
 
 - 📬 How to reach me: [zeyadelfaramawy@gmail.com](mailto:zeyadelfaramawy@gmail.com)
 
-- 🌐 Visit my portfolio: [Zeyad ElFarmawy](https://zeyad-elfaramawy-portfolio.netlify.app/)
+- 🌐 Visit my portfolio: [Zeyad ElFarmawy](https://zeyad-genai.github.io/portfolio/)
 
 - ⚡ Fun fact: *I started as a graphic designer and now build data and embedded solutions*
 
