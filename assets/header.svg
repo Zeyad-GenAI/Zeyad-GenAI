@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="230" viewBox="0 0 800 230" fill="none">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5px; rx: 12px; }
+    .dot-red { fill: #ff5f56; }
+    .dot-yellow { fill: #ffbd2e; }
+    .dot-green { fill: #27c93f; }
+    
+    .status-badge {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #3fb950;
+    }
+
+    .text-main {
+      font-family: 'Fira Code', Consolas, Monaco, monospace;
+      font-size: 22px;
+      font-weight: 700;
+      fill: #58a6ff;
+    }
+
+    .text-sub {
+      font-family: 'Fira Code', Consolas, Monaco, monospace;
+      font-size: 18px;
+      font-weight: 600;
+      fill: #7ee787;
+    }
+
+    /* Typewriter animation keyframes for Line 1 */
+    .type-line1 {
+      animation: type1 16s steps(38, end) infinite;
+    }
+
+    @keyframes type1 {
+      0% { width: 0px; }
+      15%, 90% { width: 620px; }
+      98%, 100% { width: 0px; }
+    }
+
+    /* Typewriter animation keyframes for 4 rotating roles on Line 2 */
+    .type-role1 { animation: r1 16s steps(25, end) infinite; }
+    .type-role2 { animation: r2 16s steps(30, end) infinite; }
+    .type-role3 { animation: r3 16s steps(30, end) infinite; }
+    .type-role4 { animation: r4 16s steps(25, end) infinite; }
+
+    @keyframes r1 {
+      0%, 5% { width: 0px; }
+      10%, 22% { width: 400px; }
+      24%, 100% { width: 0px; }
+    }
+
+    @keyframes r2 {
+      0%, 27% { width: 0px; }
+      32%, 47% { width: 480px; }
+      49%, 100% { width: 0px; }
+    }
+
+    @keyframes r3 {
+      0%, 52% { width: 0px; }
+      57%, 72% { width: 480px; }
+      74%, 100% { width: 0px; }
+    }
+
+    @keyframes r4 {
+      0%, 77% { width: 0px; }
+      82%, 94% { width: 420px; }
+      96%, 100% { width: 0px; }
+    }
+
+    .glow {
+      filter: drop-shadow(0px 0px 8px rgba(88, 166, 255, 0.45));
+    }
+
+    .badge {
+      fill: #161b22;
+      stroke: #30363d;
+      rx: 6px;
+    }
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #e6edf3;
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="edgeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#7ee787"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+
+    <!-- Clip path for Line 1 (Name) -->
+    <clipPath id="clip1">
+      <rect x="30" y="55" height="40" class="type-line1" width="0" />
+    </clipPath>
+
+    <!-- Clip paths for Line 2 (4 Rotating Roles) -->
+    <clipPath id="clipRole1">
+      <rect x="30" y="100" height="40" class="type-role1" width="0" />
+    </clipPath>
+
+    <clipPath id="clipRole2">
+      <rect x="30" y="100" height="40" class="type-role2" width="0" />
+    </clipPath>
+
+    <clipPath id="clipRole3">
+      <rect x="30" y="100" height="40" class="type-role3" width="0" />
+    </clipPath>
+
+    <clipPath id="clipRole4">
+      <rect x="30" y="100" height="40" class="type-role4" width="0" />
+    </clipPath>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="100%" height="100%" class="bg" />
+
+  <!-- Terminal Control Buttons -->
+  <circle cx="25" cy="22" r="6" class="dot-red" />
+  <circle cx="43" cy="22" r="6" class="dot-yellow" />
+  <circle cx="61" cy="22" r="6" class="dot-green" />
+
+  <!-- Window Header / Brand -->
+  <text x="85" y="26" font-family="'Fira Code', monospace" font-size="13" font-weight="bold" fill="#58a6ff">&gt;_ ZM.</text>
+  <text x="400" y="26" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">Zeyad-GenAI@github:~</text>
+
+  <!-- Availability Indicator -->
+  <circle cx="610" cy="22" r="4" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="620" y="25" class="status-badge">Available for Opportunities</text>
+
+  <line x1="0" y1="42" x2="800" y2="42" stroke="#30363d" stroke-width="1" />
+
+  <!-- Line 1: Animated Name -->
+  <g clip-path="url(#clip1)" class="glow">
+    <text x="30" y="80" class="text-main">$ echo "Hi, I'm Zeyad Mohamed Elfaramawy"</text>
+  </g>
+
+  <!-- Line 2: 4 Rotating Roles -->
+  <g clip-path="url(#clipRole1)">
+    <text x="30" y="122" class="text-sub">&gt; AI Engineer</text>
+  </g>
+  <g clip-path="url(#clipRole2)">
+    <text x="30" y="122" class="text-sub">&gt; Machine Learning Engineer</text>
+  </g>
+  <g clip-path="url(#clipRole3)">
+    <text x="30" y="122" class="text-sub">&gt; AI Automation Developer</text>
+  </g>
+  <g clip-path="url(#clipRole4)">
+    <text x="30" y="122" class="text-sub">&gt; Mobile App Developer</text>
+  </g>
+
+  <!-- Badges Row 1: AI & Automation -->
+  <g transform="translate(30, 152)">
+    <rect x="0" y="0" width="155" height="24" class="badge" />
+    <text x="10" y="16" class="badge-text">🧠 ML &amp; Deep Learning</text>
+
+    <rect x="165" y="0" width="135" height="24" class="badge" />
+    <text x="175" y="16" class="badge-text">👁️ Computer Vision</text>
+
+    <rect x="310" y="0" width="130" height="24" class="badge" />
+    <text x="320" y="16" class="badge-text">🤖 AI Agents &amp; LLMs</text>
+
+    <rect x="450" y="0" width="115" height="24" class="badge" />
+    <text x="460" y="16" class="badge-text">⚡ RAG Pipelines</text>
+
+    <rect x="575" y="0" width="145" height="24" class="badge" />
+    <text x="585" y="16" class="badge-text">🎯 Prompt Engineering</text>
+  </g>
+
+  <!-- Badges Row 2: Automation, Programming & Tools -->
+  <g transform="translate(30, 185)">
+    <rect x="0" y="0" width="135" height="24" class="badge" />
+    <text x="10" y="16" class="badge-text">🔄 n8n Automation</text>
+
+    <rect x="145" y="0" width="145" height="24" class="badge" />
+    <text x="155" y="16" class="badge-text">⚙️ Selenium &amp; Actions</text>
+
+    <rect x="300" y="0" width="75" height="24" class="badge" />
+    <text x="310" y="16" class="badge-text">🐍 Python</text>
+
+    <rect x="385" y="0" width="115" height="24" class="badge" />
+    <text x="395" y="16" class="badge-text">📱 Flutter &amp; Dart</text>
+
+    <rect x="510" y="0" width="135" height="24" class="badge" />
+    <text x="520" y="16" class="badge-text">🔌 API &amp; Scraping</text>
+  </g>
+
+  <!-- Bottom Accent Bar -->
+  <rect x="0" y="226" width="800" height="4" fill="url(#edgeGrad)" />
+</svg>
