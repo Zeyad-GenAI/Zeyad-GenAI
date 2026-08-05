@@ -15,10 +15,18 @@
 
 ---
 
+### ⚡ AI System Architecture & Workflows
+
+<p align="center">
+  <img src="./assets/pipeline.svg" alt="AI Agent Architecture Pipeline" width="100%" />
+</p>
+
+---
+
 ### 🚀 About Me
 
-- 🔭 **Currently working on:** AI-Powered Mobile Applications, RAG Pipelines & Intelligent Automation Workflows.
-- 🌱 **Currently learning:** Advanced Generative AI, Multi-Agent Systems & Cloud Scalability.
+- 🔭 **Currently working on:** AI-Based Fire Detection System, RAG Pipelines & Mobile Applications using Flutter.
+- 🌱 **Currently learning:** Advanced Generative AI, Multi-Agent Systems & Backend Architecture.
 - 💬 **Ask me about:** AI Engineering, Machine Learning, Computer Vision, n8n Automation & Flutter App Development.
 - 📬 **How to reach me:** [zeyadelfaramawy@gmail.com](mailto:zeyadelfaramawy@gmail.com)
 - 🌐 **Portfolio:** [Zeyad ElFaramawy Portfolio](https://zeyad-genai.github.io/portfolio/)
@@ -94,12 +102,6 @@
 </p>
 
 ---
-
-###
-
-<img src="https://raw.githubusercontent.com/abdullahabuslama/abdullahabuslama/output/snake.svg" alt="Snake animation" />
-
-###
 
 ### 🔄 Code Cycle
 
