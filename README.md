@@ -1,151 +1,99 @@
-<div align="center" width="50">
+<p align="center">
+  <img src="./assets/header.svg" alt="Zeyad Mohamed Header" width="100%" />
+</p>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zeyad-GenAI&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Zeyad Mohamed Elfaramawy</h1>
+<h3 align="center">AI Engineer | Machine Learning Engineer | AI Automation Developer | Mobile App Developer</h3>
 
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+<p align="center">
+  <em>Passionate about solving complex problems through modern AI technologies and building intelligent systems — from RAG chatbots & AI Agents to computer vision models and mobile apps.</em>
+</p>
 
+---
 
-</details>
+### 🚀 About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=ZeyadElFaramawy&style=flat&color=orange&label=PROFILE+VIEWS)
-</div>
+- 🔭 **Currently working on:** AI-Powered Mobile Applications, RAG Pipelines & Intelligent Automation Workflows.
+- 🌱 **Currently learning:** Advanced Generative AI, Multi-Agent Systems & Cloud Scalability.
+- 💬 **Ask me about:** AI Engineering, Machine Learning, Computer Vision, n8n Automation & Flutter App Development.
+- 📬 **How to reach me:** [zeyadelfaramawy@gmail.com](mailto:zeyadelfaramawy@gmail.com)
+- 🌐 **Portfolio:** [Zeyad ElFaramawy Portfolio](https://zeyad-genai.github.io/portfolio/)
+- ⚡ **Fun fact:** I started as a graphic designer and evolved into building AI & mobile software solutions!
 
-<h1 align="center">Hi 👋, I'm Zeyad ElFaramawy</h1>
-<h3 align="center">Results-driven Mobile Application Developer using Flutter & AI </h3>
+---
 
-</div>
+### 🌐 Connect with Me
 
-
-###
-
-
-
-###
-
-- 🔭 I’m currently working on *AI-Powered Mobile Applications using Flutter*
-
-- 🌱 I’m currently learning *Advanced Flutter, AI Integration and Cloud Technologies*
-
-- 💬 Ask me about *AI Engineer and Mobile App Development*
-
-- 📫 How to reach me *zeyadelfaramawy@gmail.com*
-
-- 🌐 Visit my portfolio *[Zeyad ElFaramawy](https://zeyad-genai.github.io/portfolio/)*
-
-- ⚡ Fun fact *I started as a graphic designer and now build data and embedded solutions*
-
-
-<h3 align="left">Connect with me:</h3>
-
-###
-
-<div align="left">
+<p align="left">
   <a href="https://huggingface.co/Zeyad13" target="_blank">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="52" height="40" alt="hugging face logo" />
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="42" height="40" alt="Hugging Face" />
   </a>
-  <a href="www.linkedin.com/in/zeyad-el-faramawy-900547342/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/zeyad-el-faramawy-900547342/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="40" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:zeyadelfaramawy@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="40" alt="Gmail" />
   </a>
+  &nbsp;
   <a href="https://www.facebook.com/zeyad.elfaramawy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="40" alt="Facebook" />
   </a>
+  &nbsp;
   <a href="https://wa.me/201013995894" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="40" alt="WhatsApp" />
   </a>
+  &nbsp;
   <a href="https://t.me/+201013995894" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="40" alt="Telegram" />
   </a>
+  &nbsp;
   <a href="https://www.kaggle.com/zeyadelfaramawy" target="_blank">
-    <img src="https://www.kaggle.com/static/images/site-logo.svg" width="52" height="40" alt="kaggle logo" />
+    <img src="https://www.kaggle.com/static/images/site-logo.svg" width="42" height="40" alt="Kaggle" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<h3 align="left">Skills:</h3>
+### 🛠️ Tech Stack & Skills
 
-###
+#### 🧠 AI, Machine Learning & Data
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" alt="json logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-<img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-<img width="12" />
-</div>
+#### 📱 Mobile Development
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
+</p>
 
-###
+#### ⚙️ Automation, Tools & Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="MS SQL Server" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
+</p>
 
-
-- 🧘 I’m currently working on *AI-Based Fire Detection System & Real-Time Analytics Projects*
-
-- 🌱 I’m currently learning *Advanced Flutter, AI Integration and Backend Developer* <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="12%" />
-
-- 💬 Ask me about *AI & Flutter*
-
-- 📬 How to reach me: [zeyadelfaramawy@gmail.com](mailto:zeyadelfaramawy@gmail.com)
-
-- 🌐 Visit my portfolio: [Zeyad ElFarmawy](https://zeyad-genai.github.io/portfolio/)
-
-- ⚡ Fun fact: *I started as a graphic designer and now build data and embedded solutions*
-
-
-
-
-
-<div align="center" >
-<a  href="https://github.com/SP-XD">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-  
-<hr></hr>
+---
 
 ###
 
@@ -153,13 +101,12 @@
 
 ###
 
-*Code Cycle*
+### 🔄 Code Cycle
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!" style="display: inline;" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!" style="display: inline;" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!" style="display: inline;" />
-
-
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="45" alt="Broken system" />
+  &nbsp;&nbsp;➔&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="45" alt="It works" />
+  &nbsp;&nbsp;➔&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="45" alt="It works but you don't know how" />
+</p>
