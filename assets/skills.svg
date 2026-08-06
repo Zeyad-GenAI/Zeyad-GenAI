@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250" viewBox="0 0 800 250" fill="none">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5px; rx: 12px; }
+    .dot-red { fill: #ff5f56; }
+    .dot-yellow { fill: #ffbd2e; }
+    .dot-green { fill: #27c93f; }
+    
+    .cat-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      fill: #58a6ff;
+    }
+
+    .badge {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 1px;
+      rx: 6px;
+    }
+
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #e6edf3;
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="edgeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#7ee787"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="100%" height="100%" class="bg" />
+
+  <!-- Terminal Header Bar -->
+  <rect x="0" y="0" width="800" height="36" fill="#161b22" rx="12" />
+  <rect x="0" y="24" width="800" height="12" fill="#161b22" />
+  <circle cx="22" cy="18" r="5" fill="#ff5f56" />
+  <circle cx="38" cy="18" r="5" fill="#ffbd2e" />
+  <circle cx="54" cy="18" r="5" fill="#27c93f" />
+  <text x="400" y="22" font-family="'Fira Code', monospace" font-size="12" fill="#8b949e" text-anchor="middle">Zeyad_Tech_Stack_&amp;_Skills.sh</text>
+  <line x1="0" y1="36" x2="800" y2="36" stroke="#30363d" stroke-width="1" />
+
+  <!-- Category 1: AI & Machine Learning -->
+  <g transform="translate(30, 52)">
+    <text x="0" y="0" class="cat-title">🧠 AI, Machine Learning &amp; Computer Vision</text>
+    <g transform="translate(0, 10)">
+      <rect x="0" y="0" width="80" height="26" class="badge" />
+      <text x="10" y="17" class="badge-text">🐍 Python</text>
+
+      <rect x="90" y="0" width="85" height="26" class="badge" />
+      <text x="100" y="17" class="badge-text">🔥 PyTorch</text>
+
+      <rect x="185" y="0" width="105" height="26" class="badge" />
+      <text x="195" y="17" class="badge-text">🟧 TensorFlow</text>
+
+      <rect x="300" y="0" width="85" height="26" class="badge" />
+      <text x="310" y="17" class="badge-text">👁️ OpenCV</text>
+    </g>
+  </g>
+
+  <!-- Category 2: Mobile Development -->
+  <g transform="translate(30, 117)">
+    <text x="0" y="0" class="cat-title">📱 Mobile Development &amp; Cloud</text>
+    <g transform="translate(0, 10)">
+      <rect x="0" y="0" width="80" height="26" class="badge" />
+      <text x="10" y="17" class="badge-text">💙 Flutter</text>
+
+      <rect x="90" y="0" width="65" height="26" class="badge" />
+      <text x="100" y="17" class="badge-text">🎯 Dart</text>
+
+      <rect x="165" y="0" width="75" height="26" class="badge" />
+      <text x="175" y="17" class="badge-text">🟣 Kotlin</text>
+
+      <rect x="250" y="0" width="90" height="26" class="badge" />
+      <text x="260" y="17" class="badge-text">🔥 Firebase</text>
+
+      <rect x="350" y="0" width="125" height="26" class="badge" />
+      <text x="360" y="17" class="badge-text">🤖 Android Studio</text>
+    </g>
+  </g>
+
+  <!-- Category 3: Tools & Databases -->
+  <g transform="translate(30, 182)">
+    <text x="0" y="0" class="cat-title">⚙️ Tools, Databases &amp; Hardware</text>
+    <g transform="translate(0, 10)">
+      <rect x="0" y="0" width="55" height="26" class="badge" />
+      <text x="10" y="17" class="badge-text">📦 Git</text>
+
+      <rect x="65" y="0" width="85" height="26" class="badge" />
+      <text x="75" y="17" class="badge-text">💻 VS Code</text>
+
+      <rect x="160" y="0" width="80" height="26" class="badge" />
+      <text x="170" y="17" class="badge-text">🐬 MySQL</text>
+
+      <rect x="250" y="0" width="115" height="26" class="badge" />
+      <text x="260" y="17" class="badge-text">🗄️ MS SQL Server</text>
+
+      <rect x="375" y="0" width="85" height="26" class="badge" />
+      <text x="385" y="17" class="badge-text">🔌 Arduino</text>
+
+      <rect x="470" y="0" width="70" height="26" class="badge" />
+      <text x="480" y="17" class="badge-text">🎨 Figma</text>
+
+      <rect x="550" y="0" width="75" height="26" class="badge" />
+      <text x="560" y="17" class="badge-text">🖌️ Canva</text>
+    </g>
+  </g>
+
+  <!-- Bottom Accent Bar -->
+  <rect x="0" y="246" width="800" height="4" fill="url(#edgeGrad)" />
+</svg>
