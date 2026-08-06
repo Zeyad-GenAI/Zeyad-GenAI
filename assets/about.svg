@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="290" viewBox="0 0 800 290" fill="none">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5px; rx: 12px; }
+    .dot-red { fill: #ff5f56; }
+    .dot-yellow { fill: #ffbd2e; }
+    .dot-green { fill: #27c93f; }
+    
+    .label-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      fill: #7ee787;
+    }
+
+    .val-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 14px;
+      fill: #c9d1d9;
+    }
+
+    .link-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 14px;
+      fill: #58a6ff;
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="edgeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#7ee787"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="100%" height="100%" class="bg" />
+
+  <!-- Terminal Controls -->
+  <rect x="0" y="0" width="800" height="36" fill="#161b22" rx="12" />
+  <rect x="0" y="24" width="800" height="12" fill="#161b22" />
+  <circle cx="22" cy="18" r="5" fill="#ff5f56" />
+  <circle cx="38" cy="18" r="5" fill="#ffbd2e" />
+  <circle cx="54" cy="18" r="5" fill="#27c93f" />
+  <text x="400" y="22" font-family="'Fira Code', monospace" font-size="12" fill="#8b949e" text-anchor="middle">Zeyad_Bio_&amp;_Overview.sh</text>
+  <line x1="0" y1="36" x2="800" y2="36" stroke="#30363d" stroke-width="1" />
+
+  <!-- Content Section -->
+  <g transform="translate(30, 65)">
+    <!-- Line 1 -->
+    <text x="0" y="0" class="label-text">🔭 Currently Working On:</text>
+    <text x="210" y="0" class="val-text">AI-Based Fire Detection System &amp; Real-Time Analytics</text>
+
+    <!-- Line 2 -->
+    <text x="0" y="35" class="label-text">🌱 Currently Learning:</text>
+    <text x="210" y="35" class="val-text">Advanced Flutter, AI Integration &amp; Backend Technologies</text>
+
+    <!-- Line 3 -->
+    <text x="0" y="70" class="label-text">💬 Ask Me About:</text>
+    <text x="210" y="70" class="val-text">AI Engineering, Machine Learning &amp; Mobile App Development</text>
+
+    <!-- Line 4 -->
+    <text x="0" y="105" class="label-text">📬 Reach Me At:</text>
+    <text x="210" y="105" class="link-text">zeyadelfaramawy@gmail.com</text>
+
+    <!-- Line 5 -->
+    <text x="0" y="140" class="label-text">🌐 Visit Portfolio:</text>
+    <text x="210" y="140" class="link-text">https://zeyad-genai.github.io/portfolio/</text>
+
+    <!-- Line 6 -->
+    <text x="0" y="175" class="label-text">⚡ Fun Fact:</text>
+    <text x="210" y="175" class="val-text">Started as a graphic designer and now build data &amp; AI solutions!</text>
+  </g>
+
+  <!-- Bottom Accent Bar -->
+  <rect x="0" y="286" width="800" height="4" fill="url(#edgeGrad)" />
+</svg>
