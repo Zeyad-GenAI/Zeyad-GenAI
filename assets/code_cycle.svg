@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" viewBox="0 0 800 180" fill="none">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5px; rx: 12px; }
+    .dot-red { fill: #ff5f56; }
+    .dot-yellow { fill: #ffbd2e; }
+    .dot-green { fill: #27c93f; }
+    
+    .phase-card {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 1px;
+      rx: 8px;
+    }
+
+    .phase-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      fill: #e6edf3;
+    }
+
+    .phase-sub {
+      font-family: 'Fira Code', Consolas, monospace;
+      font-size: 11px;
+      fill: #8b949e;
+    }
+
+    .arrow {
+      font-family: monospace;
+      font-size: 20px;
+      fill: #58a6ff;
+    }
+
+    .arrow-anim {
+      animation: pulse 1.5s infinite alternate;
+    }
+
+    @keyframes pulse {
+      0% { opacity: 0.4; fill: #58a6ff; }
+      100% { opacity: 1; fill: #7ee787; }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="edgeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#7ee787"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="100%" height="100%" class="bg" />
+
+  <!-- Terminal Header Bar -->
+  <rect x="0" y="0" width="800" height="36" fill="#161b22" rx="12" />
+  <rect x="0" y="24" width="800" height="12" fill="#161b22" />
+  <circle cx="22" cy="18" r="5" fill="#ff5f56" />
+  <circle cx="38" cy="18" r="5" fill="#ffbd2e" />
+  <circle cx="54" cy="18" r="5" fill="#27c93f" />
+  <text x="400" y="22" font-family="'Fira Code', monospace" font-size="12" fill="#8b949e" text-anchor="middle">Zeyad_GenAI.sh</text>
+  <line x1="0" y1="36" x2="800" y2="36" stroke="#30363d" stroke-width="1" />
+
+  <!-- Content Section: 3 Life Cycle Phases -->
+  <g transform="translate(30, 58)">
+    <!-- Phase 1: Broken -->
+    <g transform="translate(0, 0)">
+      <rect width="210" height="80" class="phase-card" stroke="#ff5f56" />
+      <text x="105" y="32" text-anchor="middle" class="phase-title">😵 System Broken</text>
+      <text x="105" y="55" text-anchor="middle" class="phase-sub" fill="#ff5f56">[ERR] Debugging...</text>
+    </g>
+
+    <!-- Arrow 1 -->
+    <text x="232" y="48" class="arrow arrow-anim">➔</text>
+
+    <!-- Phase 2: Works -->
+    <g transform="translate(265, 0)">
+      <rect width="210" height="80" class="phase-card" stroke="#3fb950" />
+      <text x="105" y="32" text-anchor="middle" class="phase-title">😌 It Works!</text>
+      <text x="105" y="55" text-anchor="middle" class="phase-sub" fill="#7ee787">[OK] Compiled!</text>
+    </g>
+
+    <!-- Arrow 2 -->
+    <text x="497" y="48" class="arrow arrow-anim">➔</text>
+
+    <!-- Phase 3: Magic -->
+    <g transform="translate(530, 0)">
+      <rect width="210" height="80" class="phase-card" stroke="#58a6ff" />
+      <text x="105" y="32" text-anchor="middle" class="phase-title">😲 Pure Magic!</text>
+      <text x="105" y="55" text-anchor="middle" class="phase-sub" fill="#58a6ff">[?] Don't touch it</text>
+    </g>
+  </g>
+
+  <!-- Bottom Accent Bar -->
+  <rect x="0" y="176" width="800" height="4" fill="url(#edgeGrad)" />
+</svg>
